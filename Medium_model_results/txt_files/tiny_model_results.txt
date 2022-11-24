@@ -1,0 +1,232 @@
+#### NEW VIDEO ####
+Converting video to audio
+video file path: Data/Bekler_Samuel-21259-01-V01-5000000002053816.mp4
+xml file path: 21259.1.xml
+##################################################
+MoviePy - Writing audio in Data/Bekler_Samuel-21259-01-V01-5000000002053816.mp3
+                                                                        
+MoviePy - Done.
+Time Taken to convert video to audio: 25.63492700000006
+Time Taken to transcribe the audio file: 72.3592405999998
+Time Taken to extract the text from the xml file: 0.0039951000007931725
+$$$$$$$$$$$$$$$$$$$$
+
+Number of words in the video: 996
+Number of words in the xml file: 1134
+$$$$$$$$$$$$$$$$$$$$
+
+Number of unique words in the video: 479
+Number of unique words in the xml file: 617
+$$$$$$$$$$$$$$$$$$$$
+
+Time Taken to process the string: 0.0008992000002763234
+My name is Manuel Be
+My name is Manuel Be
+Levenshtein distance between xml words and whisper output: 0.34607785550275005
+$$$$$$$$$$$$$$$$$$$$
+
+Time Taken to calculate levenshtein distance: 0.01520989999971789
+##################################################
+#### NEW VIDEO ####
+Converting video to audio
+video file path: Data/Bekler_Samuel-21259-02-V01-5000000002053837.mp4
+xml file path: 21259.2.xml
+##################################################
+MoviePy - Writing audio in Data/Bekler_Samuel-21259-02-V01-5000000002053837.mp3
+                                                                        
+MoviePy - Done.
+Time Taken to convert video to audio: 25.25613280000016
+Time Taken to transcribe the audio file: 72.04059570000027
+Time Taken to extract the text from the xml file: 0.004172100000687351
+$$$$$$$$$$$$$$$$$$$$
+
+Number of words in the video: 997
+Number of words in the xml file: 1157
+$$$$$$$$$$$$$$$$$$$$
+
+Number of unique words in the video: 431
+Number of unique words in the xml file: 591
+$$$$$$$$$$$$$$$$$$$$
+
+Time Taken to process the string: 0.0009632999999666936
+Mr. Bekler, we were 
+Mr. Beckler, we're t
+Levenshtein distance between xml words and whisper output: 0.31649924315398376
+$$$$$$$$$$$$$$$$$$$$
+
+Time Taken to calculate levenshtein distance: 0.01768240000001242
+##################################################
+#### NEW VIDEO ####
+Converting video to audio
+video file path: Data/Davis_Ella-43666-01-V01-5000000002836675.mp4
+xml file path: 43666.1.xml
+##################################################
+MoviePy - Writing audio in Data/Davis_Ella-43666-01-V01-5000000002836675.mp3
+                                                                        
+MoviePy - Done.
+Time Taken to convert video to audio: 23.87149480000062
+Time Taken to transcribe the audio file: 43.71770230000038
+Time Taken to extract the text from the xml file: 0.0027745999996113824
+$$$$$$$$$$$$$$$$$$$$
+
+Number of words in the video: 884
+Number of words in the xml file: 960
+$$$$$$$$$$$$$$$$$$$$
+
+Number of unique words in the video: 330
+Number of unique words in the xml file: 406
+$$$$$$$$$$$$$$$$$$$$
+
+Time Taken to process the string: 0.0011782000001403503
+Today is July 13, 19
+Today is July 13, 19
+Levenshtein distance between xml words and whisper output: 0.2559626260142611
+$$$$$$$$$$$$$$$$$$$$
+
+Time Taken to calculate levenshtein distance: 0.011894600000232458
+##################################################
+#### NEW VIDEO ####
+Converting video to audio
+video file path: Data/Davis_Ella-43666-02-V01-5000000002836696.mp4
+xml file path: 43666.2.xml
+##################################################
+MoviePy - Writing audio in Data/Davis_Ella-43666-02-V01-5000000002836696.mp3
+                                                                        
+MoviePy - Done.
+Time Taken to convert video to audio: 25.064525400000093
+Time Taken to transcribe the audio file: 39.21666319999986
+Time Taken to extract the text from the xml file: 0.003057200000512239
+$$$$$$$$$$$$$$$$$$$$
+
+Number of words in the video: 831
+Number of words in the xml file: 1006
+$$$$$$$$$$$$$$$$$$$$
+
+Number of unique words in the video: 272
+Number of unique words in the xml file: 447
+$$$$$$$$$$$$$$$$$$$$
+
+Time Taken to process the string: 0.001123899999583955
+Tape two, Ella Davis
+Take two Ella Davis.
+Levenshtein distance between xml words and whisper output: 0.2473541148574403
+$$$$$$$$$$$$$$$$$$$$
+
+Time Taken to calculate levenshtein distance: 0.012226299999383627
+##################################################
+#### NEW VIDEO ####
+Converting video to audio
+video file path: Data/Doman_Bluma-9908-01-V01-1329158.mp4
+xml file path: 9908.1.xml
+##################################################
+MoviePy - Writing audio in Data/Doman_Bluma-9908-01-V01-1329158.mp3
+                                                                        
+MoviePy - Done.
+Time Taken to convert video to audio: 23.128326600000037
+Time Taken to transcribe the audio file: 44.70429019999938
+Time Taken to extract the text from the xml file: 0.002629200000228593
+$$$$$$$$$$$$$$$$$$$$
+
+Number of words in the video: 994
+Number of words in the xml file: 1041
+$$$$$$$$$$$$$$$$$$$$
+
+Number of unique words in the video: 372
+Number of unique words in the xml file: 419
+$$$$$$$$$$$$$$$$$$$$
+
+Time Taken to process the string: 0.001635300000089046
+OK. Today is Februar
+.................. T
+Levenshtein distance between xml words and whisper output: 0.2038397113773998
+$$$$$$$$$$$$$$$$$$$$
+
+Time Taken to calculate levenshtein distance: 0.010701399999561545
+##################################################
+#### NEW VIDEO ####
+Converting video to audio
+video file path: Data/Doman_Bluma-9908-02-V01-1328710.mp4
+xml file path: 9908.2.xml
+##################################################
+MoviePy - Writing audio in Data/Doman_Bluma-9908-02-V01-1328710.mp3
+                                                                        
+MoviePy - Done.
+Time Taken to convert video to audio: 22.08210980000058
+Time Taken to transcribe the audio file: 34.108483400000296
+Time Taken to extract the text from the xml file: 0.0027133000003232155
+$$$$$$$$$$$$$$$$$$$$
+
+Number of words in the video: 1000
+Number of words in the xml file: 1005
+$$$$$$$$$$$$$$$$$$$$
+
+Number of unique words in the video: 387
+Number of unique words in the xml file: 392
+$$$$$$$$$$$$$$$$$$$$
+
+Time Taken to process the string: 0.001318199999332137
+I'm conducting an in
+I'm conducting an in
+Levenshtein distance between xml words and whisper output: 0.21458333333333332
+$$$$$$$$$$$$$$$$$$$$
+
+Time Taken to calculate levenshtein distance: 0.010721799999373616
+##################################################
+#### NEW VIDEO ####
+Converting video to audio
+video file path: Data/Lentini_Julia-5891-01-V01-1279244.mp4
+xml file path: 5891.1.xml
+##################################################
+MoviePy - Writing audio in Data/Lentini_Julia-5891-01-V01-1279244.mp3
+                                                                        
+MoviePy - Done.
+Time Taken to convert video to audio: 26.042848799999774
+Time Taken to transcribe the audio file: 60.402931999999964
+Time Taken to extract the text from the xml file: 0.0045589000001200475
+$$$$$$$$$$$$$$$$$$$$
+
+Number of words in the video: 1246
+Number of words in the xml file: 1390
+$$$$$$$$$$$$$$$$$$$$
+
+Number of unique words in the video: 386
+Number of unique words in the xml file: 530
+$$$$$$$$$$$$$$$$$$$$
+
+Time Taken to process the string: 0.0012285000002520974
+1995. We're with a s
+We've got a 1995, we
+Levenshtein distance between xml words and whisper output: 0.19602741988767758
+$$$$$$$$$$$$$$$$$$$$
+
+Time Taken to calculate levenshtein distance: 0.024278099999719416
+##################################################
+#### NEW VIDEO ####
+Converting video to audio
+video file path: Data/Lentini_Julia-5891-05-V01-1277108.mp4
+xml file path: 5891.5.xml
+##################################################
+MoviePy - Writing audio in Data/Lentini_Julia-5891-05-V01-1277108.mp3
+                                                                        
+MoviePy - Done.
+Time Taken to convert video to audio: 25.413126500000544
+Time Taken to transcribe the audio file: 59.57315149999977
+Time Taken to extract the text from the xml file: 0.0068448000001808396
+$$$$$$$$$$$$$$$$$$$$
+
+Number of words in the video: 1261
+Number of words in the xml file: 1599
+$$$$$$$$$$$$$$$$$$$$
+
+Number of unique words in the video: 474
+Number of unique words in the xml file: 812
+$$$$$$$$$$$$$$$$$$$$
+
+Time Taken to process the string: 0.0026917000004686997
+So you were telling 
+So you were telling 
+Levenshtein distance between xml words and whisper output: 0.21643369852663394
+$$$$$$$$$$$$$$$$$$$$
+
+Time Taken to calculate levenshtein distance: 0.029983200000060606
+##################################################
